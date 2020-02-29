@@ -3,7 +3,6 @@
   "version": "0.0.2",
   "description": "A very opinionated (React/TypeScript/Redux/etc) frontend boilerplate",
   "main": "dist/index.js",
-  "author": "Lapanti",
   "license": "MIT",
   "repository": {
     "type": "git",

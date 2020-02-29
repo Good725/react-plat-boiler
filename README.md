@@ -72,16 +72,7 @@ The following are all the dependencies of the project, with the reasoning behind
     - :punch: [awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) to compile TypeScript in the webpack pipe
     - :wave: [babel](https://babeljs.io) to transpile our compiled JavaScript to ES5 using [babel-loader](https://webpack.js.org/loaders/babel-loader/#src/components/Sidebar/Sidebar.jsx)
     - :tongue: [sass-loader](https://webpack.js.org/loaders/sass-loader/#src/components/Sidebar/Sidebar.jsx) to compile SASS into CSS
-- :pray: [Jest](https://facebook.github.io/jest/) for testing
-    - :metal: [ts-jest](https://github.com/kulshekhar/ts-jest) to run Jest with TypeScript
-    - :ok_hand: [TSlint](https://palantir.github.io/tslint/) for linting
-    - :runner: [nock](https://github.com/node-nock/nock) to mock API calls
-    - :question: [sass-lint](https://github.com/sasstools/sass-lint) to lint SASS
-    - :bust_in_silhouette: [Enzyme](https://github.com/airbnb/enzyme) for snapshot and behavior testing
-        - :cyclone: [Enzyme-to-JSON](https://github.com/adriantoine/enzyme-to-json) to enable Enzyme snapshots with Jest
-        - :foggy: [enzyme-adapter-react-16](https://github.com/airbnb/enzyme/tree/master/packages/enzyme-adapter-react-16) to use Enzyme with React 16
-- :nail_care: [SASS](https://github.com/sass/node-sass) for styles
-- :two_hearts: [concurrently](https://github.com/kimmobrunfeldt/concurrently) to run multiple script concurrently
+
 
 ## <a name="contributing">Contributing</a>
 Read the [contribution guidelines](./CONTRIBUTING.md)
